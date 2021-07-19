@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="gfDia.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf dia0000" x="0" y="0" width="1234" height="472" frameX="-49" frameY="0" frameWidth="1283" frameHeight="472"/>
+	<SubTexture name="gf dia0001" x="0" y="472" width="1250" height="472" frameX="-33" frameY="0" frameWidth="1283" frameHeight="472"/>
+	<SubTexture name="gf dia0002" x="0" y="944" width="1267" height="472" frameX="-16" frameY="0" frameWidth="1283" frameHeight="472"/>
+	<SubTexture name="gf dia0003" x="0" y="1416" width="1283" height="472"/>
+</TextureAtlas>

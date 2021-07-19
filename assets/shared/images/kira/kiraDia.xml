@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="kiraDia.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="kira dia0000" x="0" y="0" width="1292" height="728"/>
+	<SubTexture name="kira dia0001" x="1292" y="0" width="1292" height="728"/>
+	<SubTexture name="kira dia0002" x="2584" y="0" width="1292" height="728"/>
+	<SubTexture name="kira dia0003" x="0" y="728" width="1292" height="728"/>
+</TextureAtlas>

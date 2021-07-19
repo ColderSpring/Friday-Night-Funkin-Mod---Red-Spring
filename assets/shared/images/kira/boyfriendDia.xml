@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="boyfriendDia.png">
+	<!-- Created with Adobe Animate version 21.0.5.40714 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="boyfriend dia0000" x="0" y="0" width="1289" height="729"/>
+	<SubTexture name="boyfriend dia0001" x="1289" y="0" width="1289" height="729"/>
+	<SubTexture name="boyfriend dia0002" x="2578" y="0" width="1289" height="729"/>
+	<SubTexture name="boyfriend dia0003" x="0" y="729" width="1289" height="729"/>
+</TextureAtlas>
